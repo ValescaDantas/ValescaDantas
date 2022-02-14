@@ -1,13 +1,9 @@
 ### Oii, eu sou a Valesca Dantas
 
-- 🔭 ...
-- 🌱 Estudando Javascript e PHP
-- 👯 I’m looking to collaborate on ...
-- 🤔 Pronouns: ela/dela
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Desenvolvimento frontend
+- 🌱 Estudando Javascript
+- 😄 Pronouns:ela/dela
+
 
 <div>
   <a href="https://beacons.ai/ValescaDantas">
@@ -23,7 +19,7 @@
   
   
   
-  <div margin-top="10>
+  <div margin-top="10">
   <a href = "mailto:valescadantas.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/valesca-dantas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
